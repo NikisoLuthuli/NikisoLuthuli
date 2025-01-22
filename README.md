@@ -1,6 +1,6 @@
 ## My name is Nikiso Luthuli
 
-I have a Maritime and Sales backgroung, currently transitioning into data science. I am currently learning Data Analytics with coursera. 
+I have a Maritime and Sales background, currently transitioning into data science. I am currently learning Data Analytics with coursera. 
 
 <!--
 **NikisoLuthuli/NikisoLuthuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
